@@ -1,16 +1,13 @@
-## Hi there 👋
+## hello from Indonesia, i'm relmaonx 👋
 
-<!--
-**relmaonx/relmaonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Indonesia.
 
-Here are some ideas to get you started:
+- 👯 Open to collaborating on open-source projects
+- 🚀 Interested in open-source contributions
+- 🛠️ Tinkering with side projects on weekends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=relmaonx&hide_border=true&theme=react" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=relmaonx&hide_border=true&theme=onedark" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Neovim-f778ba?style=for-the-badge&logoColor=white" alt="Neovim" /> <img src="https://img.shields.io/badge/Docker-f778ba?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/JavaScript-f778ba?style=for-the-badge&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Go-f778ba?style=for-the-badge&logoColor=white" alt="Go" />
